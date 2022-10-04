@@ -1,5 +1,5 @@
 # fuzzy-lamp
-Open Source Contribution
+Data Science Blogs
 
 | Serial Number | Topic | Author | Link |
 | --- |---| --- | --- |
